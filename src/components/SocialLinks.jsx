@@ -19,7 +19,7 @@ const SocialLinks = () => {
            <>  Gmail <HiOutlineMail size={30} /> </>  </a>
         </li>
         <li className='flex justify-between items-center w-40 h-14 px-4 rounded-br-md bg-gray-400 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300'>
-           <a target="_blank" rel="noreferrer" href="/resume.pdf" download={true} className='flex flex-row justify-between items-center w-full text-white '>
+           <a target="_blank" rel="noreferrer" href="/Resume.pdf" download={true} className='flex flex-row justify-between items-center w-full text-white '>
            <>  Resume <BsFillPersonLinesFill size={30} /> </>  </a>
         </li>
     </ul>
